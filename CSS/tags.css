@@ -1,0 +1,9 @@
+header {
+  height: 40px;
+  width: 100vw;
+  background-color: rgb(35, 42, 74);
+  color: aliceblue;
+  font-family: "Mukta", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}

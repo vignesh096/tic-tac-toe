@@ -1,0 +1,43 @@
+@media screen and (max-width: 950px) {
+  #content {
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 0;
+  }
+  #info {
+    margin-left: 0;
+  }
+  #info h2 {
+    margin: 10px;
+  }
+  .playground {
+    font-size: 70px;
+  }
+  .boxtext {
+    font-size: 75px;
+  }
+  #celebration {
+    height: 280px;
+    width: 280px;
+    margin: 0;
+  }
+  .grid {
+    height: 280px;
+    width: 280px;
+  }
+  #reset {
+    height: 55px;
+    width: 100px;
+    border-radius: 35%;
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
+
+    font-family: "Delicious Handrawn", cursive;
+  }
+}
+@media screen and (max-width: 465px) {
+  #info h2 {
+    font-size: 7vw;
+  }
+}

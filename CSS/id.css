@@ -1,0 +1,16 @@
+#playground {
+  margin-top: 3vh;
+}
+#content {
+  margin-top: 5vh;
+}
+#info h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 40px;
+  margin-top: 7vh;
+  margin-bottom: 10vh;
+}
+#say {
+  margin: 1vh 2vw;
+  margin-bottom: 5vh;
+}
